@@ -1,0 +1,10 @@
+x=int(input("enter the 1st value"))
+y=x%10
+z=x//10
+a=int(input("enter the 2nd value"))
+b=a%10
+c=a//10
+m=z+b
+n=y+c
+o=m+n
+print(f"{m}+{n}={o}")
