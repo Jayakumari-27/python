@@ -1,5 +1,5 @@
 option=int(input("1-veg\n2-NV\n enter your option"))
-if option==1:
+if option==1 :
     print("veg")
     dishes=input("enter the dishes type\n1-breakfast\n2-lunch")
     if dishes=="1":
